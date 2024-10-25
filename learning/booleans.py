@@ -1,3 +1,66 @@
+# Video Notes
+
+#Comparisons:
+#Equal:  ==
+# Not Equal:  !=
+# Greater than:  >
+# Less Than:  <
+# Greater or Equal:  >=
+# Less or equal:  <=
+# Object Identitty:is
+
+
+
+
+
+
+# language = 'Java'
+
+
+# if language == 'Python':
+#     print('Lamguage is Python')
+# elif language == 'Java':
+#     print('Language is Java')
+# elif language == 'JavaScript':
+#     print('Language is JavaScript')
+# else:
+#     print('No match')
+
+
+# user = 'Admin'
+# logged_in = True
+
+# if not logged_in:
+#     "Please log in"
+# # else:
+#     "Welcome"
+
+# a = [1,2,3]
+# b = [1,2,3]
+
+# print(id(a))
+# print(id(b))
+# print(a is b)
+
+# False Values:
+# Falsenone
+# Zero of any numeric type
+# Any empty sequence
+# Any empty mapping
+
+condition = 456
+
+if condition:
+    print('Evaluated to True')
+else:
+    print('Evaluated to False')
+
+
+# if user == 'Admin' and logged_in:
+#     print('Admin Page')
+# else:
+#     print('Bad Creds')
+
 
 ############################################################################
 # Boolean expressions are statements that can be either True or False. In Python, the boolean data type is represented by the built-in data type bool.
